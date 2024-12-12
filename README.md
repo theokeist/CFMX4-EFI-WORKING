@@ -2,7 +2,8 @@
 
 ## Hackintosh build
 ## Added itlwm.kext and HeliPort.app
-Wifi and bloetooth are both working
+- Wifi and bluetooth are both working
 
 # Natvie WiFi is fckd up
-Sleep not working, Wake up lid not working 
+- Sleep not working
+- Wake up lid not working 
