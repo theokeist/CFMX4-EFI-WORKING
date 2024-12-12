@@ -1,4 +1,4 @@
-# CFMX4-EFI-WORKING
+# CFMX4-EFI for OpenCore
 
 ## Dissable CMS 
 ## Added itlwm.kext and HeliPort.app
