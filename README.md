@@ -1,6 +1,6 @@
 # CFMX4-EFI for OpenCore
 
-## Dissable CMS 
+## Hackintosh build
 ## Added itlwm.kext and HeliPort.app
 Wifi and bloetooth are both working
 
